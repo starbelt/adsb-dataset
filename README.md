@@ -30,6 +30,8 @@ This repository can be run using the following commands, where the first command
 
 ```
 ./dump1090
+
 ./dump1090 --interactive
+
 ./dump1090 --interactive --csv-log
 ```
